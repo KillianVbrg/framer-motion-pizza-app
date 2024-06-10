@@ -1,0 +1,20 @@
+{
+	"Create Framer Motion variant": {
+		"scope": "javascript,typescript",
+		"prefix": "var",
+		"body": [
+			"const $1Variants = {",
+      "  initial: {",
+      "    $2",
+      "  },",
+      "  animate: {",
+      "    $3",
+      "    transition: {",
+      "      $4",
+      "    },",
+      "  },",
+      "}",
+		],
+		"description": "Create Framer Motion variant"
+	}
+}
